@@ -1,0 +1,20 @@
+# Python / env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.local
+kaggle.json
+
+# data / models / archives
+*.zip
+node_modules/
+our_models/
+*.h5
+*.pt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
